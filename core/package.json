@@ -57,7 +57,7 @@
     "tailwind-merge": "^2.5.4",
     "tailwindcss-radix": "^3.0.5",
     "uuid": "^10.0.0",
-    "webpack": "^5.95.0",
+    "webpack": "^5.104.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
